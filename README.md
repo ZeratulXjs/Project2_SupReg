@@ -3,7 +3,7 @@
 ### This is a project to help me practice the application of various linear regression models with regularization
 
 This project uses the publically available **IBM HR Analytics Employee Attrition & Performance** hosted on 
-Kaggle (https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)[https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset] 
+Kaggle [https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) 
 
 ---
 
